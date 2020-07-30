@@ -1,0 +1,1 @@
+SELECT Id, Name, CaseRecordType__c, Description__c, Parent__c, Parent__r.Name FROM Case_Segment__c

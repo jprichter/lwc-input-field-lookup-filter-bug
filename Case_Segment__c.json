@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Case_Segment__c",
+                "referenceId": "Case_Segment__cRef1"
+            },
+            "Name": "General Type",
+            "CaseRecordType__c": "Tier 1",
+            "Description__c": "a general type description"
+        },
+        {
+            "attributes": {
+                "type": "Case_Segment__c",
+                "referenceId": "Case_Segment__cRef3"
+            },
+            "Name": "General Category",
+            "CaseRecordType__c": "Tier 1",
+            "Description__c": "Just something General"
+        }
+    ]
+}
